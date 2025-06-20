@@ -113,10 +113,13 @@ erDiagram
     Students ||--o{ Enrollments : "enrolls in"
     Courses ||--o{ Enrollments : "has"
 
-    ![database sql](https://github.com/user-attachments/assets/27249ec8-63bd-4520-b655-69a75713c1e2)
+    
+    ![database sql](https://github.com/user-attachments/assets/7fa1caf0-0d95-41a4-9a54-5ef498b06af8)
+
 
 
 ERD Explanation:
+
 
 Entities (Tables): Departments, Instructors, Students, Courses, Enrollments.
 

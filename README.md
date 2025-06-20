@@ -119,7 +119,7 @@ erDiagram
 
 
 ERD Explanation:
-
+database sql.png
 
 Entities (Tables): Departments, Instructors, Students, Courses, Enrollments.
 
